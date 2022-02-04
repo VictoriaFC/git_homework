@@ -5,7 +5,7 @@ Takeaways:
 Strategies:
 1. Take hand-written notes even if I can find them online somewhere.
 2. Reviewing class work and exercises before class sessions. That way I have the opportunity to digest the information before meeting with the class.
-3. Ask questions even if it makes me feel uncomfortable. Collaborate!
+
 
 Shoutout!
 Before starting Mod 0 I participated in the first MASH Try Coding weekend so I got some exposure to different people at Turing. That weekend and now in Mod 0 I found Dan to be very insightful!
